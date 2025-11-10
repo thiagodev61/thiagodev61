@@ -48,14 +48,6 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thiagodev61/thiagodev61/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thiagodev61/thiagodev61/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/thiagodev61/thiagodev61/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
 <div align="center">
   <img height="180" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNThiYnJxMm13NHVhdTB2anRvYmlhZ2hvM214MjU3N2cwNHoxem02ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
 </div>
